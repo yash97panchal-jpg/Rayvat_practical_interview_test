@@ -1,0 +1,26 @@
+SAMPLE GENERATED TEXT (from checkpoints/best_model.keras)
+======================================================================
+
+Seed: 'to be or not to be'  (temperature=0.5)
+-> to be or not to be <unk> in then you your <unk> the mother of <unk> to <unk> to <unk> what <unk> and <unk> of i <unk> the <unk> in their <unk> and <unk> to <unk> to <unk> the <unk> and i <unk> <unk> the <unk>
+
+Seed: 'to be or not to be'  (temperature=1.0)
+-> to be or not to be the daughters for sit to bled if let to name with yes gloucester please thus himself heir deserve it most throat who graces himself sister i <unk> a prayers that brakenbury to censures owe aufidius likelihood theres the wandering sicinius
+
+Seed: 'the king said unto'  (temperature=0.5)
+-> the king said unto that not <unk> you by <unk> the <unk> of good <unk> <unk> you i <unk> in that the <unk> and i <unk> us shall a <unk> we the <unk> of and is that the <unk> and not <unk> sicinius i
+
+Seed: 'the king said unto'  (temperature=1.0)
+-> the king said unto and call do ready buckingham day you richmond first <unk> true known not now we this nearer sir you conscience aufidius through shall him to grow fled and well met with lambs the king which him first died that power
+
+Seed: 'love is a'  (temperature=0.5)
+-> love is a iii of their <unk> and be <unk> and me what and <unk> the <unk> of that come the <unk> of is which and him and my son his <unk> is <unk> to the <unk> <unk> the death of elizabeth the
+
+Seed: 'love is a'  (temperature=1.0)
+-> love is a house our stands ill could down therefore authority your tear and was put me o that with look a not not their had dissentious <unk> me it west <unk> temperately him <unk> is words the sweet house this iii i
+
+Seed: 'romeo where art thou'  (temperature=0.5)
+-> romeo where art thou <unk> and and <unk> and i <unk> not it the <unk> of <unk> my <unk> the <unk> and <unk> and margaret him i and if you the <unk> of <unk> i <unk> with <unk> with the <unk> and the <unk>
+
+Seed: 'romeo where art thou'  (temperature=1.0)
+-> romeo where art thou must good against of his cardinal of have your into the tongues shes the <unk> of grub me sicinius shall ratcliff as as made him the calls afford in have arms to england service and where brutus is to kings
